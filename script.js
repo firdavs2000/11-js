@@ -26,14 +26,14 @@ function calculateOrder() {
     // }
   
   
-    console.log(`1-buyurtma yetkazib berish narxi: ${deliveryPrice1} so'm`);
+    console.log(`yetkazib berish narxi: ${deliveryPrice1} so'm`);
     // console.log(`2-buyurtma yetkazib berish narxi: ${deliveryPrice2} so'm`);
   
   
     let totalOrderPrice1 = totalPrice1 + deliveryPrice1;
     // let totalOrderPrice2 = totalPrice2 + deliveryPrice2;
   
-    console.log(`1 buyurtmaning jami narxi (yetkazib berish bilan): ${totalOrderPrice1} so'm`);
+    console.log(`jami narxi (yetkazib berish bilan): ${totalOrderPrice1} so'm`);
     // console.log(`2 buyurtmaning jami narxi (yetkazib berish bilan): ${totalOrderPrice2} so'm`);
   
   
